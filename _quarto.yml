@@ -3,14 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "temp_website"
+  title: "Sophia Gador"
   favicon: favicon.png
   navbar:
     logo: logo.png
     left:
       - href: index.qmd
         text: Home
-      - index.qmd
+      - about.qmd
 
 format:
   html:
